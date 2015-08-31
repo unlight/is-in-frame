@@ -1,0 +1,14 @@
+{
+  "name": "is-in-frame",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "frame"
+  ],
+  "author": "S",
+  "license": "Beerware",
+  "bugs": {
+    "url": "https://github.com/unlight/isInFrame/issues"
+  },
+  "homepage": "https://github.com/unlight/isInFrame#readme"
+}
